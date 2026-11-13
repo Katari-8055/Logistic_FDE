@@ -1,4 +1,4 @@
-# Cold-Chain Logistics AI Assistant
+# ColdChain AI 
 
 An enterprise-style operations assistant for investigating cold-chain incidents,
 route disruption, and shipment risk. The project combines live fleet telemetry,
